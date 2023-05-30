@@ -24,8 +24,7 @@ module.exports = {
 
     extend: {
       fontFamily: {
-        "satoshi": ["satoshi"],
-        "nunito": ["nunito sans"],
+        "thunder": ["ThunderExtBd"],
       },
       colors: {
         white: "#FFFFFF",
