@@ -6,13 +6,10 @@ html {
   height: calc(var(--vh, 1vh) * 100);
 }
 
-/* Webfont: Thunder-ExtraBoldLC */
 @font-face {
   font-family: 'ThunderExtBd';
   src:
-    /* IE6-IE8 */
-    url('Thunder-ExtraBoldLC.woff') format('woff'),
-    /* Modern Browsers */
-    url('Thunder-ExtraBoldLC.woff2') format('woff2'),
-    /* Safari, Android, iOS */
+    url('/wp-content/themes/lizzyvandrom-theme/font/Thunder-ExtraBoldLC.woff') format('woff'),
+    url('/wp-content/themes/lizzyvandrom-theme/font/Thunder-ExtraBoldLC.woff2') format('woff2'),
+
 }
