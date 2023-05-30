@@ -20,8 +20,8 @@
 
 <body <?php body_class( 'page-block lizzy' ); ?>>
 <div class="section">
-    <div class="fixed">
-        <div class="h-8 w-screen bg-black"></div>
+    <div class="fixed h-8 w-screen bg-black z-50">
+        
     </div>
 </div>
 
