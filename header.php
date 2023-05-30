@@ -19,6 +19,6 @@
 </head>
 
 <body <?php body_class( 'page-block lizzy' ); ?>>
-<?php the_content(); ?>
+
 
   

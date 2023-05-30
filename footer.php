@@ -7,7 +7,7 @@
  ?>
 
 
-<?php the_content(); ?>
+
 <?php wp_footer('my_custom_js'); ?>
 </body>
 </html>
