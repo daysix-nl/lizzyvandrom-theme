@@ -19,6 +19,10 @@
 </head>
 
 <body <?php body_class( 'page-block lizzy' ); ?>>
-
+<div class="section">
+    <div class="fixed">
+        <div class="h-8 w-screen bg-black"></div>
+    </div>
+</div>
 
   
