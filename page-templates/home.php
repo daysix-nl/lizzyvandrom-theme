@@ -11,6 +11,7 @@
         <video class="w-full h-full object-cover absolute top-0 right-0 -z-10" autoplay="" loop="" muted="" playsinline="">
         <source src="https://player.vimeo.com/video/831162641?h=c385849a37&muted=1&autoplay=1&dnt=1&loop=1&transparent=0&background=1&app_id=122963">
         </video>
+        <iframe class="w-full h-full object-cover absolute top-0 right-0 -z-10" src="https://player.vimeo.com/video/831162641?h=c385849a37&muted=1&autoplay=1&dnt=1&loop=1&transparent=0&background=1&app_id=122963" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         
         
         <div class="container flex h-full items-center pt-[41px] md:pt-[35.5px] lg:pt-[34px]">
